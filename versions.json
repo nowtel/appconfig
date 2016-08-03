@@ -6,13 +6,14 @@
     "fr": "Télécharger la nouvelle version de l'app Talk Home.\n\nS'il vous plait, cliqueer sur le lien pour mettre à jour et continuer à utiliser l'app."
   },
   "disabled_versions_android": [
-    "1.5.7",
-    "1.5.8",
-    "1.5.9",
-    "1.5.10"
-  ],
-  "disabled_versions_ios": [
-    "1.5"
+    "1.5.7", "1.5.8", "1.5.9", "1.5.10",
+    "1.6.0", "1.6.1",
+    "1.7.0", "1.7.1", "1.7.2"
+  ], "disabled_versions_ios": [
+    "1.5",
+    "1.6", "1.6.1", "1.6.2",
+    "1.7.0", "1.7.1", "1.7.2", "1.7.3",
+    "1.8.0"
   ],
   "upgrade_message": {},
   "upgrade_versions_android": [],
