@@ -9,6 +9,6 @@
     ],
     "disabled": [
     ],
-    "timeout": 40
+    "timeout": 100
   }
 }
