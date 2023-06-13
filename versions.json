@@ -16,6 +16,6 @@
     "1.8.0"
   ],
   "upgrade_message": {},
-  "upgrade_versions_android": ["5.1.2"],
+  "upgrade_versions_android": [],
   "upgrade_versions_ios": []
 }
