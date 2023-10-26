@@ -3,7 +3,7 @@
     "en": "This version is no longer supported; you must upgrade now."
   },
   "disabled_versions_android": [
-    "1.0.0"
+    "1.1.0"
   ], "disabled_versions_ios": [
     "1.0.0"
   ],
