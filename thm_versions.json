@@ -5,7 +5,7 @@
   "disabled_versions_android": [
     "1.0.0"
   ], "disabled_versions_ios": [
-    "1.0.0"
+    "1.1.0"
   ],
   "upgrade_message": {
      "en": "A new version of the app is available, we recommend you upgrade now."
