@@ -3,11 +3,11 @@
     "en": "This version is no longer supported; you must upgrade now."
   },
   "disabled_versions_android": [
-  ], "disabled_versions_ios": [
+  ], "disabled_versions_ios": ["1.0.2","1.1.0","1.1.1","1.1.2"
   ],
   "upgrade_message": {
      "en": "A new version of the app is available, we recommend you upgrade now."
   },
   "upgrade_versions_android": [],
-  "upgrade_versions_ios": []
+  "upgrade_versions_ios": ["1.1.4"]
 }
