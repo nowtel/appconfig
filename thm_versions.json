@@ -2,9 +2,8 @@
   "disabled_message": {
     "en": "This version is no longer supported; you must upgrade now."
   },
-  "disabled_versions_android": [
-  ], "disabled_versions_ios": ["1.0.2","1.1.0","1.1.1","1.1.2"
-  ],
+  "disabled_versions_android": [], 
+  "disabled_versions_ios": ["1.0","1.0.1","1.0.2","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","1.1.7","1.1.8"],
   "upgrade_message": {
      "en": "A new version of the app is available, we recommend you upgrade now."
   },
