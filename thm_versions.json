@@ -2,11 +2,11 @@
   "disabled_message": {
     "en": "This version is no longer supported; you must upgrade now."
   },
-  "disabled_versions_android": ["1.0","1.0.1","1.0.2","1.0.3","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","1.1.7","1.1.8"], 
-  "disabled_versions_ios": ["1.0","1.0.1","1.0.2","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","1.1.7","1.1.8"],
+  "disabled_versions_android": ["1.0","1.0.1","1.0.2","1.0.3","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","1.1.7","1.1.8","1.1.9","1.2.0","1.2.1"], 
+  "disabled_versions_ios": ["1.0","1.0.1","1.0.2","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","1.1.7","1.1.8","1.1.9","1.2.0","1.2.1"],
   "upgrade_message": {
      "en": "A new version of the app is available, we recommend you upgrade now."
   },
-  "upgrade_versions_android": [],
-  "upgrade_versions_ios": []
+  "upgrade_versions_android": ["1.2.2"],
+  "upgrade_versions_ios": ["1.2.2"]
 }
